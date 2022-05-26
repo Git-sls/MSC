@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+
+.cont_1 {
+        background:  red;
+    color: white;
+    text-align: center;
+}
+p{
+    font-size: 50px;
+    
+}
+a{
+    font-size: 50PX;
+    color: white;
+}
+
+.flex {
+  
+    display: flex;
+    justify-content: space-between;
+ 
+    
+}
+
+.flex_cont{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+}
+.flex_cont2{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid yellow;
+    border-radius: 5%;
+    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.text{
+    width: 20%;
+
+}
