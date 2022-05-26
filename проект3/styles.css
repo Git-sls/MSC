@@ -1,0 +1,57 @@
+.cont_1 {
+    padding: 20px 0;
+    background:  rgb(200, 255, 0);
+    color: white;
+   
+    text-align: left;
+    padding: 20px;
+}
+p{
+    font-size: 50px;
+    
+}
+.button {
+    font-weight: bold;
+    margin: 100px;
+    text-align: center;
+    color: #FFF;
+    
+}
+.flex {
+    font-size: 50px;
+    display: flex;
+    justify-content: space-between;
+  
+    
+}
+.img{
+    color: white; 
+    padding: 100px; 
+    border: 5px solid red;
+    border-radius: 50%;
+    width: 10em;
+    height: 10em;
+    
+}
+.img2{
+    color: white; 
+    padding: 50px; 
+    border: 5px solid rgb(0, 174, 255);
+    border-radius: 50%;
+    width: 10em;
+    height: 10em;
+    
+}
+.img3{
+    color: white; 
+    padding: 30px; 
+    border: 5px solid rgb(145, 255, 0);
+    border-radius: 50%;
+    width: 10em;
+    height: 10em;
+    
+}
+.flex_img{
+    display: flex;
+    justify-content: center;
+}
