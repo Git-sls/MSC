@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+
+p{
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+    padding: 10px ;
+    margin: 10px;
+   
+}
+.UP{
+
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background-color: pink;
+    position: fixed;
+    top: 0;
+    
+
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background: pink;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    margin-inline: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    background-color: coral;
+}
+
+.page{
+    display: flex;
+    width: 900px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 100px;  
+     
+    
+   
+}
+.logo{
+    height: 900px;
+    width: 100%;
+    background-image: url("img/bot.jpg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.text{
+    border: 5px solid pink;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+
+}
+.bottle{
+display: flex;
+
+}
+.water{
+    display: flex;
+    flex-direction: column;
+    font-size: 8px;
+    color: blue;
+    justify-content: center;
+    align-items: center;
+}
+.lastblock {
+    display: flex;
+    border: 5px solid pink;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 20px;
+
+}
